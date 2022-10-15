@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://github.com/Emekaony/ParseGram/blob/main/parseGram.gif](https://github.com/Emekaony/ParseGram/blob/main/parseGram.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='(https://github.com/Emekaony/ParseGram/blob/main/parseGram.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
