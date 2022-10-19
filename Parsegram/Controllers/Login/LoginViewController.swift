@@ -17,6 +17,8 @@ class LoginViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        title = "Log in"
+        
         usernameField.setLeftPaddingPoints(10)
         usernameField.setRightPaddingPoints(10)
         passwordField.setLeftPaddingPoints(10)
